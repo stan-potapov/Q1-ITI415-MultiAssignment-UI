@@ -495,7 +495,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Terrain
+          m_StringArgument: Scenes/Terrain
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &879418284
@@ -786,7 +786,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: ProBuilderScene
+          m_StringArgument: Scenes/ProBuilderScene
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1144702194
@@ -1221,7 +1221,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: More Snaps
+          m_StringArgument: Scenes/More Snaps
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1566914021
@@ -1427,7 +1427,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: scene4
+          m_StringArgument: Scenes/collection game
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1904308917
